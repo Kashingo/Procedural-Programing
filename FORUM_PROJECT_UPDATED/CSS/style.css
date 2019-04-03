@@ -1,0 +1,36 @@
+*{
+    padding:0;
+    margin:0;
+}
+#top_menu
+{
+    text-align: center;
+    border-bottom: 2px solid #cab;
+}
+.group_cat
+{
+padding-left: 20px;
+margin: 5px
+}
+.group_cat p
+{
+background-color:#ccc;
+padding-left: 20px;
+margin: 5px;
+font-size: 1.5em;
+font-weight:bold;
+}
+.cat
+{
+font-size: 1em;
+font-weight:bold;
+padding-left: 20px;
+margin: 5px;
+background-color:#eee;
+}
+.cat p
+{
+font-size: 0.8em;
+font-weight:normal;
+background-color:#eee;
+}
